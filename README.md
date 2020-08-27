@@ -1,4 +1,4 @@
-# Flexbox演示站 [地址](https://xluos.github.io/demo/flexbox/)
+# Flexbox演示站 [地址](https://oorzc.github.io/flexbox/)
 
 可以通过动态的点击flexbox属性可以实时看到各个属性的效果，有助于理解各个属性。
 
